@@ -1,0 +1,65 @@
+.face{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    background-color:yellow;
+    position: relative;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.eye1{
+    height: 25px;
+    width: 25px;
+    border-radius: 25px;
+    background-color: black;
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.eye3{
+    height: 16px;
+    width: 16px;
+    border-radius: 25px;
+    background-color: white;
+    position: absolute;
+    margin-left: 52px;
+    margin-top: 55px;
+}
+.eye4{
+    height: 16px;
+    width: 16px;
+    border-radius: 25px;
+    background-color: white;
+    position: absolute;
+    margin-top: 55px;
+    margin-left: 130px;
+}
+.eye2{
+    height: 25px;
+    width: 25px;
+    border-radius: 25px;
+    background-color: black;
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 125px;
+}
+
+.sq{
+    height: 32px;
+    width: 50px;
+    background-color: black;
+    border-radius: 2px 2px 20px 20px;
+    position: absolute;
+    margin-left: 75px;
+    margin-top: 125px;
+}
+/*.tongue{
+    height: 40px;
+    width: 30px;
+    background-color: rgb(241, 241, 241);
+    border-radius: 20px 20px 20px 20px;
+    position: absolute;
+    margin-left: 85px;
+    margin-top: 140px;*/
+
+
